@@ -27,7 +27,7 @@ On Windows, run ```venv\Scripts\activate```
 
 With the virtual environment activated, run ```pip install -r requirements.txt```
 
-### Run Migrations:
+### Create and run Migrations:
 
 Ensure you're in the project directory  ```cd carrers``` then run ```python manage.py makemigrations``` to create the migrations files (optional but recommended).
 
